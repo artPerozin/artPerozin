@@ -1,16 +1,32 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
-<!--
-**artPerozin/artPerozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, eu sou o Arthur Perozin 👋</h1>
+<h3 align="center">Desenvolvedor Full Stack focado em entregar soluções eficientes e bem arquitetadas.</h3>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que utilizo no dia a dia:
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<hr>
+
+### 💼 Sobre mim:
+
+- 💡 Gosto de desenvolver soluções inteligentes e acessíveis, focadas em usabilidade e performance.
+- 📚 Atualmente aprimorando projetos com **IA aplicada**, **automação** e **eficiência de backends**.
+- 🔧 Trabalho com **front-end**, **back-end**, **banco de dados** e **integrações com IA**.
+- 💬 Se quiser trocar uma ideia sobre tecnologia ou projetos, me chama!
+
+<hr>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
