@@ -25,7 +25,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <hr>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artPerozin&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artPerozin&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 
 ### 💼 Sobre mim:
