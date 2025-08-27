@@ -40,6 +40,6 @@
 <hr>
 <br>
 
-[GitHub Profile Views Counter]: https://github.com/artPerozin/github-profile-views-counter
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=artPerozin&color=blueviolet&style=flat-square" /></p> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
