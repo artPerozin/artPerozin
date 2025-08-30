@@ -32,10 +32,9 @@
 
 ### 💼 Sobre mim:
 
-- 💡 Gosto de desenvolver soluções inteligentes e acessíveis, focadas em usabilidade e performance.
-- 📚 Atualmente aprimorando projetos com **IA aplicada**, **automação** e **eficiência de backends**.
-- 🔧 Trabalho com **front-end**, **back-end**, **banco de dados** e **integrações com IA**.
-- 💬 Se quiser trocar uma ideia sobre tecnologia ou projetos, me chama!
+- 💡 Gosto de desenvolver soluções dando ênfase na estrutura.
+- 📚 Estou na 2ª fase de Ciência da Computação na UDESC - CCT
+- 🔧 Atualmente aprimorando projetos com **IA aplicada**, **automação** e **eficiência de backends**.
 
 <hr>
 <br>
