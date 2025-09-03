@@ -39,6 +39,6 @@
 <hr>
 <br>
 
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=artPerozin&color=blueviolet&style=flat-square" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=artPerozin&color=darkblue&style=flat-square" /></p> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
