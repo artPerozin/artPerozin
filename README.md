@@ -5,6 +5,8 @@
 
 <hr>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artPerozin&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🚀 Tecnologias que utilizo no dia a dia:
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -28,7 +30,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artPerozin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
 
 ### 💼 Sobre mim:
 
