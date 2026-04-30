@@ -2,17 +2,19 @@
 <h3 align="center">Desenvolvedor Full Stack focado em entregar soluções eficientes e bem arquitetadas.</h3>
 
 <br>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 60px;">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">
-  
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+
+### 💻 Linguagens
+<img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cpp,cs,php" />
+
+### ⚙️ Frameworks & Libs
+<img src="https://skillicons.dev/icons?i=react,vue,flutter,laravel,dotnet" />
+
+### 🚀 Infra & Tools
+<img src="https://skillicons.dev/icons?i=docker,postgres,aws,ubuntu" />
+
 </div>
+
 <br><br>
 
 
