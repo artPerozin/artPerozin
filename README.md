@@ -18,7 +18,7 @@
 <br><br>
 
 
-- Tenho experiência em desenvolver soluções com foco em estruturas robustas, boas práticas e qualidade de código.
+- Tenho 4 anos de experiência em desenvolver soluções com foco em estruturas robustas, boas práticas e qualidade de código.
 - Atualmente curso a 3ª fase de Ciência da Computação na UDESC - CCT
 - Dedico-me a projetos de Inteligência Artificial aplicada, com ênfase em LLMs (Large Language Models), automação de processos e otimização de backends.
 - Experiência no desenvolvimento de aplicações Full Stack, aplicando arquiteturas modernas, como DDD (Domain-Driven Design), TDD (Test-Driven Development) e Clean Architecture, garantindo código escalável, testável e de fácil manutenção.
