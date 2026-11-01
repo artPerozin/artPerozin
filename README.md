@@ -5,7 +5,7 @@
 <h3>Desenvolvedor Full Stack focado em entregar soluções eficientes e bem arquitetadas</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Experiência-4%20anos-0A66C2?style=for-the-badge" alt="4 anos de experiência" />
+  <img src="https://img.shields.io/badge/Experiência-4%20anos-0A66C2?style=for-the-badge" alt="5 anos de experiência" />
   <img src="https://img.shields.io/badge/UDESC-Ciência%20da%20Computação-2E7D32?style=for-the-badge" alt="UDESC - Ciência da Computação" />
   <img src="https://img.shields.io/badge/Foco-IA%20Aplicada-8E24AA?style=for-the-badge" alt="Foco em IA aplicada" />
 </p>
