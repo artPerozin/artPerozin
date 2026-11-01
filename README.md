@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack com **5 anos de experiência** construindo soluções com estruturas robustas, boas práticas e qualidade de código. Atualmente cursando a **4ª fase de Ciência da Computação na UDESC (CCT)**.
+Sou desenvolvedor Full Stack com **4 anos de experiência** construindo soluções com estruturas robustas, boas práticas e qualidade de código. Atualmente cursando a **4ª fase de Ciência da Computação na UDESC (CCT)**.
 
 Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre buscando soluções de alto impacto, escaláveis e fáceis de manter.
 
