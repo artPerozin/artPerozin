@@ -14,13 +14,13 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor Full Stack com **4 anos de experiência** construindo soluções com estruturas robustas, boas práticas e qualidade de código. Atualmente cursando a **4ª fase de Ciência da Computação na UDESC (CCT)**.
 
 Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre buscando soluções de alto impacto, escaláveis e fáceis de manter.
 
-## 🎯 No que eu trabalho
+## No que eu trabalho
 
 | | Área | O que faço |
 |---|---|---|
@@ -29,22 +29,22 @@ Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre 
 | 🌐 | **Full Stack** | Aplicações completas, do front ao back, com arquiteturas modernas |
 | 🧱 | **Arquitetura** | DDD, TDD e Clean Architecture para código escalável, testável e de fácil manutenção |
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
-### 💻 Linguagens
+### Linguagens
 <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cpp,cs,php" alt="Linguagens" />
 
-### ⚙️ Frameworks & Libs
+### Frameworks & Libs
 <img src="https://skillicons.dev/icons?i=react,vue,flutter,laravel,dotnet" alt="Frameworks e libs" />
 
-### 🚀 Infra & Tools
+### Infra & Tools
 <img src="https://skillicons.dev/icons?i=docker,postgres,aws,ubuntu" alt="Infra e ferramentas" />
 
 </div>
 
-## 🏛️ Boas práticas que eu sigo
+## Boas práticas que eu sigo
 
 - **DDD (Domain-Driven Design):** modelagem orientada ao domínio do negócio
 - **TDD (Test-Driven Development):** testes guiando o desenvolvimento
