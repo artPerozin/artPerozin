@@ -26,8 +26,10 @@ const LEVELS = ["S", "A+", "A", "A-", "B+", "B", "B-", "C+", "C"];
 const grade = LEVELS[[1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100].findIndex((t) => percentile <= t)];
 const score = percentile.toFixed(1);
 
+const IGNORAR = new Set(["HTML", "CSS"]); // markup/estilo, fora da lista
 const bytes = {};
 for (const r of v.repositories.nodes) for (const e of r.languages.edges) {
+  if (IGNORAR.has(e.node.name)) continue;
   (bytes[e.node.name] ??= { size: 0, color: e.node.color || "#8b949e" }).size += e.size;
 }
 const total = Object.values(bytes).reduce((s, l) => s + l.size, 0);
