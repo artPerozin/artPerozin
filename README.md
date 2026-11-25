@@ -1,20 +1,8 @@
-<div align="center">
+# Arthur Perozin
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8E24AA&height=200&section=header&text=Arthur%20Perozin&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack&descSize=20&descAlignY=60" alt="Arthur Perozin" width="100%" />
+Desenvolvedor Full Stack focado em entregar soluções eficientes e bem arquitetadas.
 
-</div>
-
-<div align="center">
-
-<h3>Desenvolvedor Full Stack focado em entregar soluções eficientes e bem arquitetadas</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Experiência-4%20anos-0A66C2?style=for-the-badge" alt="4 anos de experiência" />
-  <img src="https://img.shields.io/badge/UDESC-Ciência%20da%20Computação-2E7D32?style=for-the-badge" alt="UDESC - Ciência da Computação" />
-  <img src="https://img.shields.io/badge/Foco-IA%20Aplicada-8E24AA?style=for-the-badge" alt="Foco em IA aplicada" />
-</p>
-
-</div>
+4 anos de experiência · Ciência da Computação na UDESC · Foco em IA aplicada
 
 ---
 
@@ -59,5 +47,3 @@ Busco aprimorar continuamente meus conhecimentos em **tecnologias emergentes**, 
 ⭐ Fique à vontade para explorar meus repositórios!
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8E24AA&height=100&section=footer" alt="" width="100%" />
