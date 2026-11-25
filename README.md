@@ -42,16 +42,6 @@ Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre 
 
 </div>
 
-## Atividade no GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=artPerozin&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=artPerozin&theme=tokyo-night&hide_border=true&area=true&custom_title=Hist%C3%B3rico%20de%20contribui%C3%A7%C3%B5es" alt="Histórico de contribuições" width="100%" />
-
-</div>
-
 ## Boas práticas que eu sigo
 
 - **DDD (Domain-Driven Design):** modelagem orientada ao domínio do negócio
