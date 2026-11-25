@@ -86,6 +86,19 @@ Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre 
 
 </div>
 
+<!--
+  LINKS DOS PROJETOS EM DESTAQUE (placeholder)
+  Para ativar: apague as linhas "<!--" e "-->" que cercam este bloco
+  e troque cada COLOQUE_O_LINK_AQUI pelo endereço do projeto
+  (site, demo, artigo, vídeo, etc.). Duplique uma linha para adicionar mais.
+
+<div align="center">
+
+🔗 [Nome do projeto 1](COLOQUE_O_LINK_AQUI) · [Nome do projeto 2](COLOQUE_O_LINK_AQUI) · [Nome do projeto 3](COLOQUE_O_LINK_AQUI)
+
+</div>
+-->
+
 ## Boas práticas que eu sigo
 
 - **DDD (Domain-Driven Design):** modelagem orientada ao domínio do negócio
