@@ -25,8 +25,7 @@ Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=artPerozin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artPerozin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+<img src="metrics.svg" alt="Nota como dev e linguagens mais usadas" width="760" />
 
 </div>
 
