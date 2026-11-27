@@ -14,14 +14,6 @@ Pela **Konvex Jr.**, realizei e coordenei **18 projetos**.
 
 Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre buscando soluções de alto impacto, escaláveis e fáceis de manter.
 
-## Métricas
-
-<div align="center">
-
-<img src="metrics.svg" alt="Métricas do GitHub de Arthur Perozin" width="480" />
-
-</div>
-
 ## Em constante evolução
 
 Busco aprimorar continuamente meus conhecimentos em **tecnologias emergentes**, **design de sistemas** e **integração de IA** em soluções de alto impacto.
