@@ -36,6 +36,6 @@ Busco aprimorar continuamente meus conhecimentos em **tecnologias emergentes**, 
 
 Fique à vontade para explorar meus repositórios!
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,py,php,cs,c&perline=8" alt="TypeScript, JavaScript, HTML, CSS, Python, PHP, C#, C" height="22" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,cs,c,flutter,vue,react,laravel,nextjs,dotnet&perline=12" alt="TypeScript, JavaScript, Python, PHP, C#, C, Flutter, Vue.js, React, Laravel, Next.js, ASP.NET" height="22" />
 
 </div>
