@@ -10,6 +10,8 @@ Desenvolvedor Full Stack focado em entregar soluções eficientes e bem arquitet
 
 Sou desenvolvedor Full Stack com **4 anos de experiência** construindo soluções com estruturas robustas, boas práticas e qualidade de código. Atualmente cursando a **4ª fase de Ciência da Computação na UDESC (CCT)**.
 
+Pela **Konvex Jr.**, realizei e coordenei **18 projetos**.
+
 Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre buscando soluções de alto impacto, escaláveis e fáceis de manter.
 
 ## Métricas
