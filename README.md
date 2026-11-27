@@ -16,7 +16,13 @@ Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre 
 
 <div align="center">
 
-<img src="metrics.svg" alt="Métricas do GitHub de Arthur Perozin" width="760" />
+<table>
+<tr>
+<td valign="top"><img src="metrics-perfil.svg" alt="Perfil e estatísticas" /></td>
+<td valign="top"><img src="metrics-atividade.svg" alt="Hábitos de código e atividade" /></td>
+<td valign="top"><img src="metrics-calendario.svg" alt="Calendário de contribuições e linguagens" /></td>
+</tr>
+</table>
 
 </div>
 
