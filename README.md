@@ -20,14 +20,6 @@ Gosto de unir engenharia de software sólida com tecnologias emergentes, sempre 
 
 </div>
 
-## Projetos
-
-| Projeto | Descrição |
-|---|---|
-| [Nome do projeto](https://github.com/artPerozin/) | Descrição curta |
-| [Nome do projeto](https://github.com/artPerozin/) | Descrição curta |
-| [Nome do projeto](https://github.com/artPerozin/) | Descrição curta |
-
 ## 🌱 Em constante evolução
 
 Busco aprimorar continuamente meus conhecimentos em **tecnologias emergentes**, **design de sistemas** e **integração de IA** em soluções de alto impacto.
