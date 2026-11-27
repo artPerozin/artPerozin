@@ -36,4 +36,6 @@ Sou desenvolvedor Full Stack com **4 anos de experiência** construindo soluçõ
 
 ⭐ Fique à vontade para explorar meus repositórios!
 
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,py,php,cs,c&perline=8" alt="TypeScript, JavaScript, HTML, CSS, Python, PHP, C#, C" height="22" />
+
 </div>
